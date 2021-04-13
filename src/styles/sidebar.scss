@@ -1,0 +1,150 @@
+#app {
+  // 主体区域
+  .main-container {
+    min-height: 100%;
+    transition: margin-left .28s;
+    margin-left: 180px;
+  }
+
+   // 侧边栏
+  .sidebar-container {
+    user-select: none;
+
+    .horizontal-collapse-transition {
+      transition: 0s width ease-in-out, 0s padding-left ease-in-out, 0s padding-right ease-in-out;
+    }
+
+    background-color: $menuBg;
+    transition: width .28s;
+    width: 180px !important;
+    height: 100%;
+    position: fixed !important;
+    font-size: 0px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1001;
+    // overflow: hidden;
+    a {
+      display: inline-block;
+      width: 100%;
+      overflow: hidden;
+    }
+    .svg-icon {
+      margin-right: 16px;
+    }
+    .el-menu {
+      border: none;
+      width: 100% !important;
+    }
+  }
+
+  .hideSidebar {
+    .sidebar-container {
+      width: 54px !important;
+    }
+
+    .main-container {
+      margin-left: 54px;
+    }
+
+    // .submenu-title-noDropdown {
+    //   padding: 0 !important;
+    //   position: relative;
+
+    //   .el-tooltip {
+    //     padding: 0 !important;
+
+    //     .svg-icon {
+    //       margin-left: 20px;
+    //     }
+
+    //     .sub-el-icon {
+    //       margin-left: 19px;
+    //     }
+    //   }
+    // }
+
+    .el-submenu {
+      overflow: hidden;
+
+      &>.el-submenu__title {
+        padding: 0 !important;
+
+        .svg-icon {
+          margin-left: 20px;
+        }
+
+        .sub-el-icon {
+          margin-left: 19px;
+        }
+
+        .el-submenu__icon-arrow {
+          display: none;
+        }
+      }
+    }
+
+    .el-menu--collapse {
+      .el-submenu {
+        &>.el-submenu__title {
+          &>span {
+            height: 0;
+            width: 0;
+            overflow: hidden;
+            visibility: hidden;
+            display: inline-block;
+          }
+        }
+      }
+    }
+  }
+
+  //适配移动端
+  .mobile {
+    .main-container {
+      margin-left: 0px;
+    }
+    .sidebar-container {
+      top: 50px;
+      transition: transform .28s;
+      width: 180px !important;
+    }
+    &.hideSidebar {
+      .sidebar-container {
+        transition-duration: 0.3s;
+        transform: translate3d(-180px, 0, 0);
+      }
+    }
+  }
+
+  .withoutAnimation {
+    .main-container,
+    .sidebar-container {
+      transition: none;
+    }
+  }
+}
+
+//鼠标悬浮后图标变大
+.svg-icon {
+  transition: transform 0.2s ease-in-out;
+}
+.el-menu-item {
+  &:hover .svg-icon {
+    transform: scale(1.2);
+  }
+}
+.el-submenu__title:hover {
+  .svg-icon {
+    transform: scale(1.2);
+  }
+}
+//全局样式 , 菜单收缩后 鼠标经过菜单选项样式无效问题
+.el-submenu__title,
+.el-menu-item {
+  background-color: $subMenuBg !important;
+  &:hover {
+    background-color: $menuHover !important;
+  }
+}

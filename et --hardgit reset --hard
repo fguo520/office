@@ -1,0 +1,2548 @@
+[33mcommit d6f4bbb6f92babbd34326ba6ad09ddadd866728f[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+Merge: 3aa44c7 2c666fc
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 13 12:43:32 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 3aa44c719b19a1da1cf93f4199ab136b28a9b561[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 13 12:43:25 2020 +0800
+
+    提交
+
+[33mcommit 2c666fcbf895fb4d292e0d19dce31fd97f31ed6c[m[33m ([m[1;31morigin/test[m[33m)[m
+Merge: ff9c9fb 926a97e
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 13 12:04:54 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit ff9c9fb5fa9dd1c4f93d25fe45ea0ab0574986f6[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 13 12:04:49 2020 +0800
+
+    拉取代码
+
+[33mcommit 926a97eac782403b0e10bfbdcfc3b81342e693e9[m
+Merge: 3895421 9bfe235
+Author: woniu <1752537899@qq.com>
+Date:   Fri Nov 13 12:02:39 2020 +0800
+
+    合并代码
+
+[33mcommit 3895421b7d9286774f4745ef29fa0e148330b3a2[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Nov 13 11:09:25 2020 +0800
+
+    优化代码
+
+[33mcommit 9bfe2354c523ba14f25b4a8fbbeeb784742f85af[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 13 11:08:27 2020 +0800
+
+    优化
+
+[33mcommit 2ef338e40528d445d3f0bb6bf6661fe0259d5889[m
+Merge: 2618531 0e8ed1e
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 19:27:00 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 2618531173ca877d5ddf1cbdc9860185966cd5c3[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 19:26:57 2020 +0800
+
+    优化
+
+[33mcommit 0e8ed1e02deff6e6796d573c9af2503ec2df18cc[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 18:18:03 2020 +0800
+
+    合并代码
+
+[33mcommit b0d17caa22209f2324be16907bad22ca198e88af[m
+Merge: f5ddc5c 9f77c92
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 18:10:55 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit f5ddc5c1cdfe3b0650b4e14cbdbc2c865d86169d[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 18:10:46 2020 +0800
+
+    合并代码
+
+[33mcommit 9f77c925eb7f7ed6ffea754037d8050b7322bb51[m
+Merge: 033d63b 44d0a50
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 18:01:08 2020 +0800
+
+    合并
+
+[33mcommit 033d63be0970b7ea817e4ffa0b844574e9d94fe1[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 18:00:48 2020 +0800
+
+    合并
+
+[33mcommit 44d0a500ca1718106ab55452c548383f534176ed[m
+Merge: 072c1bc c9039f4
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 18:00:33 2020 +0800
+
+    合并代码
+
+[33mcommit 072c1bce6cd1328769c7b509950993da0933c118[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 17:58:23 2020 +0800
+
+    优化代码
+
+[33mcommit c9039f468ab60055dc63d868c85224fb1c401292[m
+Merge: d17e87e 541bf03
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 17:51:24 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit d17e87e4b956ca046d3d156ae39273fe47d199b6[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 17:51:20 2020 +0800
+
+    提交代码
+
+[33mcommit 541bf03a356c694b04c1949bccbe96a0d62945c9[m
+Merge: 60279c9 02f2f8d
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 17:43:20 2020 +0800
+
+    合并代码
+
+[33mcommit 60279c97b22517dd2798d2742bdff84228d417ac[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 17:41:48 2020 +0800
+
+    优化代码
+
+[33mcommit 02f2f8d395558562287d3b6fb336f2c1b3b98b73[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 17:34:45 2020 +0800
+
+    提交
+
+[33mcommit b0af2e0dc733762eb6b433faa2d29f5fe4ec2d56[m
+Merge: badce27 49287a5
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 16:30:56 2020 +0800
+
+    合并
+
+[33mcommit badce27e1093ff5a16d02bd3e03bd58b354239b8[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 12 16:24:48 2020 +0800
+
+    合并
+
+[33mcommit 49287a5971afec110a0e357a0c19d13d2c246bdf[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Nov 12 16:24:18 2020 +0800
+
+    完成‘授权页面’
+
+[33mcommit 3ab02750bef8292ed68f5762afde96f0774aadeb[m
+Merge: 62bede8 2390103
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 13:30:12 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 62bede8e2deca2213e3e7149de9f26e5c60e6a0a[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 13:30:04 2020 +0800
+
+    优化代码
+
+[33mcommit 2390103384d459145f85e87bfe5a7f59f544a2bf[m
+Merge: 610041e b0cdf0b
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 11 12:06:22 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 610041ee968fefcf390f7ec2d909449a59d86759[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 11 12:06:19 2020 +0800
+
+    优化汇率大小
+
+[33mcommit b0cdf0b638fe8bcfc8d553d042cccb1f1d4d1088[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 11:46:21 2020 +0800
+
+    优化代码
+
+[33mcommit 679604041d04f825d69eebd5db1777cc5cd12a88[m
+Merge: b6d30f7 c12d3b5
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 11:32:45 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit b6d30f77c0e9e6ce7b63fffb7ca5e8d9866a460d[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 11:32:37 2020 +0800
+
+    优化代码
+
+[33mcommit c12d3b5842726f106264c2a2806cbc36de0cecf9[m
+Merge: b5b365a 1279440
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 11 11:14:20 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 12794406d93e81ca253e43386cc17afb2fce7a13[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 11:14:16 2020 +0800
+
+    优化代码
+
+[33mcommit b5b365a3a519ad2087c1c6a89ef2696311667a65[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 11 11:14:15 2020 +0800
+
+    合并代码
+
+[33mcommit 84ea75c20914170c8197c247a6e0e5df800e3d30[m
+Merge: e3687b7 4e000d2
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 11:01:49 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit e3687b712e807f1b796273ff1b07910b9b52dc98[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 11:01:42 2020 +0800
+
+    优化代码
+
+[33mcommit 4e000d2616147723ddca6db2c4155f5be6f72eaf[m
+Merge: 7405fe3 7071936
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 11 10:33:10 2020 +0800
+
+    合并
+
+[33mcommit 7405fe3a928d8aef145704149dc33e11609057d5[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 11 10:32:44 2020 +0800
+
+    合并
+
+[33mcommit 70719364dc02f312f172e01be74785942d8e1fb0[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 10:32:16 2020 +0800
+
+    优化代码
+
+[33mcommit 59ecd495e2db2f74c208ddfee1e42bc552c580e0[m
+Merge: 87d7fe3 9635bca
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 09:23:07 2020 +0800
+
+    优化代码
+
+[33mcommit 87d7fe3623079107cb7addafadfcde51ec50cd01[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Nov 11 09:22:06 2020 +0800
+
+    优化代码
+
+[33mcommit 9635bcae7b5c5729f4bf2914986d4a8f991e924e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 10 20:08:13 2020 +0800
+
+    提交
+
+[33mcommit 5c05bf030f6b608594921b2ea7a0e010645399cf[m
+Merge: 4e10e34 2d6db4e
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 19:09:00 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 4e10e3464b80e291efb3fc82192c0abc3b1f5033[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 19:08:51 2020 +0800
+
+    修改代码
+
+[33mcommit 2d6db4e60f5bc67ffcade65f35ad4758f9a6be0d[m
+Merge: 38a76bd 20f1ff9
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 10 18:15:26 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 38a76bdfa48410e27fd1c318466bff8a4c981291[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 10 18:15:22 2020 +0800
+
+    合并提交
+
+[33mcommit 20f1ff90ffdc7eb651905008fe7216aafdc93688[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 17:59:19 2020 +0800
+
+    优化代码
+
+[33mcommit a242eeabfa4ef0fea61dfa60d759504c9b958e02[m
+Merge: 8152bf7 1dd3066
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 16:16:31 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 8152bf7222b3355b03c299626bfa9a964fccdd22[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 16:16:20 2020 +0800
+
+    合并代码
+
+[33mcommit 1dd30668ed88f066f52e153664a2e452752801eb[m
+Merge: d392fbf 2d864d7
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 10 16:15:20 2020 +0800
+
+    提交代码
+
+[33mcommit d392fbf33aa0764387dd16fb886a47cb2cea4b7f[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 10 16:14:36 2020 +0800
+
+    提交代码
+
+[33mcommit 2d864d726201a7fe786af3c36861726158bc609d[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 15:45:32 2020 +0800
+
+    优化‘刊登’模块
+
+[33mcommit 836cfef530e62874c17dd17875b615691da6d33d[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 14:46:03 2020 +0800
+
+    优化‘刊登’模块
+
+[33mcommit b033f0d9a297a2b91923dbf0412d1814e903dff3[m
+Merge: 073f28b d17d6ba
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 10 13:58:29 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 073f28b4d4621075fb74e4cabd299df34d4bf078[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 10 13:58:24 2020 +0800
+
+    合并
+
+[33mcommit d17d6baad297ff100c722234660f2c2ec622ecad[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 13:50:58 2020 +0800
+
+    优化‘刊登’模块
+
+[33mcommit 3393c4b620664fe14f662f5a39fa484d164d2204[m
+Merge: 449a3f6 bbf923d
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 13:50:41 2020 +0800
+
+    优化‘刊登’模块
+
+[33mcommit 449a3f62132a0fb1dd4f1f468e28f43278b41b24[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Nov 10 13:50:16 2020 +0800
+
+    优化‘刊登’模块
+
+[33mcommit bbf923d4bd8ebd02cb6cd022c6d348c274ceb5a1[m
+Merge: c1701f2 d04ab42
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 19:58:44 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit c1701f26a9d4163a93e728547459edb35d5142df[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 19:58:36 2020 +0800
+
+    渠道授权
+
+[33mcommit d04ab429b44db12072094ea396912a5ecbbf2b9a[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 18:10:40 2020 +0800
+
+    合并代码
+
+[33mcommit 688ca99b163f38f5e41a70d1cd9fc438b07d0c6a[m
+Merge: dc5632f 924d183
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 18:05:05 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit dc5632ff51fc4e8e7f590dcb3401a788ef23e678[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 18:04:56 2020 +0800
+
+    刊登模块完稿
+
+[33mcommit 924d1830ea20f358773f96c37dee658ef9242dcf[m
+Merge: ee87736 d6dc5be
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 12:57:12 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit ee877369be225cd9d86b1164a996a2a20da570be[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 12:56:56 2020 +0800
+
+    提交代码
+
+[33mcommit d6dc5be39ba42f01d658bcda5638e524f7c320e1[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 12:56:43 2020 +0800
+
+    合并代码
+
+[33mcommit e76c2125dcf69beb08dc7e52aa5f7564fa70eca7[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 12:56:09 2020 +0800
+
+    合并代码
+
+[33mcommit 815e227db18c8624131650a58c4355670a1260b0[m
+Merge: 02b6447 6d12fc5
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 12:07:52 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 02b644744aabb52b447470c547caad86290de695[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 12:07:48 2020 +0800
+
+    拉取代码
+
+[33mcommit 6d12fc55ed28c57c18414902db02ac5ea6169fba[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 12:06:46 2020 +0800
+
+    合并代码
+
+[33mcommit a80b02cd4df92f65097332acc26fcb3472595eec[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 11:42:58 2020 +0800
+
+    合并代码
+
+[33mcommit 816134f4e98d33568763b7346994d4d8dc5cb927[m
+Merge: 68f19d4 62fc269
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 11:32:01 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 68f19d4fafba03a56b9e9f0577c5af9246ab3457[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 9 11:31:56 2020 +0800
+
+    合并
+
+[33mcommit 62fc269c407e448df55992d92967671b8c5614d8[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 09:31:20 2020 +0800
+
+    合并代码
+
+[33mcommit a9eea8433066ad074c1231c76c4701fab38dffc3[m
+Author: 蓝俊辉 <1752537899@qq.com>
+Date:   Mon Nov 9 01:29:25 2020 +0000
+
+    删除 editorImage.vue
+
+[33mcommit 5c6d34407e479ce84c6a018965a0f01efc507539[m
+Author: 蓝俊辉 <1752537899@qq.com>
+Date:   Mon Nov 9 01:27:46 2020 +0000
+
+    Replace editorImage.vue
+
+[33mcommit 97715775af0e486f6b48a69632dc379e96c10602[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 09:25:17 2020 +0800
+
+    合并代码
+
+[33mcommit 931d23cd2f0d026e67e66cfc0849903ddaa5e0fe[m
+Merge: 57ce03f f9e243f
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 09:22:36 2020 +0800
+
+    合并代码
+
+[33mcommit 57ce03fea94b3c302f08a6b533ea7492a4876710[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 9 09:22:05 2020 +0800
+
+    合并代码
+
+[33mcommit f9e243fcddf6fefb34dc417e7eef3e161335f32e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 18:32:28 2020 +0800
+
+    合并
+
+[33mcommit 946c4848e8200a1c46e3a2296a4a8d9aaadcc61b[m
+Merge: 70c97a0 ed94fc0
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 13:57:53 2020 +0800
+
+    合并
+
+[33mcommit 70c97a06989af17a32f31be27586404fb4ef702e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 13:57:17 2020 +0800
+
+    合并
+
+[33mcommit ed94fc03476073146fdce7383de353561498c6f0[m
+Merge: aa1414b 9f6abc7
+Author: woniu <1752537899@qq.com>
+Date:   Fri Nov 6 13:56:45 2020 +0800
+
+    合并代码
+
+[33mcommit aa1414b02b52487924bbf535e44fce3446f9eea1[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Nov 6 13:51:40 2020 +0800
+
+    刊登编辑初步完稿
+
+[33mcommit 9f6abc73926d50343784a3b5e01a6cf6eb2a0970[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 12:05:20 2020 +0800
+
+    优化
+
+[33mcommit 2b049e5088a1e3924141a0aa06d1fae60bbfab77[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 11:31:24 2020 +0800
+
+    优化代码
+
+[33mcommit 36638c4f552be414103387dc9b9020884516d8ed[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 09:40:11 2020 +0800
+
+    优化代码
+
+[33mcommit c18ff991040301bb7093ed3827f3f9667fc79aa0[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 09:29:42 2020 +0800
+
+    优化
+
+[33mcommit 345d954e27c98ea48b16c0d7c5904639371c9303[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Nov 6 08:57:37 2020 +0800
+
+    优化
+
+[33mcommit adf50dbbc73aa9bdb89d6b0a7aa0c412ebc9b189[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 5 19:05:06 2020 +0800
+
+    优化
+
+[33mcommit 928634e9babb99bbcdab419a9469e38699beaa1e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 5 12:06:05 2020 +0800
+
+    优化
+
+[33mcommit f8f1a30db920c8f8c3b89751137015932e19a59c[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 5 12:02:18 2020 +0800
+
+    优化
+
+[33mcommit 6ca093f81802d361e5b8a5266a423e11a4caeeca[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Nov 5 11:31:13 2020 +0800
+
+    优化
+
+[33mcommit cd71442d6ed1f2bbe6235b428e3704157028e35d[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 4 19:16:12 2020 +0800
+
+    优化
+
+[33mcommit 88f9cf1a641a728cdafa68f80d23ebbd13c744be[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 4 18:20:59 2020 +0800
+
+    优化
+
+[33mcommit 95fb317fcaa9fd77cd23d05f6bc3d078346c41e7[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Nov 4 17:49:35 2020 +0800
+
+    优化
+
+[33mcommit 09e86771f1f8c4ef389e95dff08f25d4f5606a7c[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 3 19:25:07 2020 +0800
+
+    优化代码
+
+[33mcommit 0c65825b99861bec76b0be8aa224456232c8a915[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Nov 3 16:35:47 2020 +0800
+
+    优化产品分类页面
+
+[33mcommit c15a15172188d3e15597d73a553e117567d92556[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 2 19:18:50 2020 +0800
+
+    优化
+
+[33mcommit f1a9ec94245363997a8471a3151ebbee45d629f8[m
+Merge: f147a9f 169ea28
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 2 13:50:36 2020 +0800
+
+    合并
+
+[33mcommit f147a9f5e5782d8f9dcd6154415e97a86f0e3424[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Nov 2 13:50:01 2020 +0800
+
+    合并
+
+[33mcommit 169ea28019c95f3ae77307c83a39788c1dc635e4[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Nov 2 13:49:08 2020 +0800
+
+    合并代码
+
+[33mcommit 9bd942ad00ab7aedd56542115f804418aa31ce4a[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 17:09:17 2020 +0800
+
+    合并代码
+
+[33mcommit b363d6a51bf07875a631c596723fcb15727041f9[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 17:05:25 2020 +0800
+
+    合并代码
+
+[33mcommit f6422c114e947efa3a82fa8072aa632c3aa86a44[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 17:01:48 2020 +0800
+
+    合并代码
+
+[33mcommit 2975fc36bbfda5d1aaf25db4a70fd2ecc78af3c1[m
+Merge: 2d96b98 740ea52
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 16:52:19 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 2d96b9827f6aef6be81ece6185fd150ca0d91ba5[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 16:52:13 2020 +0800
+
+    合并代码
+
+[33mcommit 740ea52df1d154c716a4a2f27c25cdb1079b1574[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 31 16:47:34 2020 +0800
+
+    优化代码
+
+[33mcommit 45e51cfe7642c47770913ef6bc24a5db5d3b98b9[m
+Merge: 400e448 c2e0387
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 31 16:34:52 2020 +0800
+
+    优化代码
+
+[33mcommit 400e4480e9f50af63bba12f1540b3874895ee0e4[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 31 16:33:58 2020 +0800
+
+    优化代码
+
+[33mcommit c2e038793edc9dd701bf285d8bcdb607e24abe36[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 16:25:42 2020 +0800
+
+    合并代码
+
+[33mcommit 662141dd8dc7ce909043b0b49efdd8b540ca5eea[m
+Merge: c84a9a4 200c047
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 16:23:49 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit c84a9a42a00ab07b6efb973b4b4df98e7be2cfee[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 16:23:35 2020 +0800
+
+    合并代码
+
+[33mcommit 200c04788e4a7226bc81da7a91c6584ca8c92466[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 31 09:42:39 2020 +0800
+
+    优化代码
+
+[33mcommit 66fac713e3e23ec7326e986ddce837565fce272d[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 31 09:41:37 2020 +0800
+
+    优化代码
+
+[33mcommit 154fbd9f1d5eec3a851b8c392a0858827b7c558f[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 31 09:28:14 2020 +0800
+
+    合并代码
+
+[33mcommit e56920d3ea3538bb403c378959c62cbc50544530[m
+Merge: 44ce702 16f4c8d
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 30 18:48:00 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 44ce7023e2a2a221f3c0bd428e2f74ef517d7fbd[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 30 18:47:54 2020 +0800
+
+    合并代码
+
+[33mcommit 16f4c8d3b5e3b37dda67fd030b7ac91d6d43fb18[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 30 17:29:03 2020 +0800
+
+    提交代码
+
+[33mcommit f70777f495b27552eaff2d08177e532a068d5e43[m
+Merge: d528db7 385cc7f
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 30 10:07:17 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit d528db79971c270dcd25f3a5ec27a7b2befed6af[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 30 10:07:08 2020 +0800
+
+    合并代码
+
+[33mcommit 385cc7fd3527e44ad6cb5a2660524d5fb4a92af7[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 30 10:06:03 2020 +0800
+
+    提代码
+
+[33mcommit f167c54d8872d38fc438b08d02ad7bcb9c4106a8[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 19:50:19 2020 +0800
+
+    优化代码
+
+[33mcommit bc4258272cf612723ea951f7321cbb6fc4602b42[m
+Merge: 0651418 075fd73
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 19:46:27 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 06514181a02a91d386e396a7e2c05553089f59ca[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 19:46:17 2020 +0800
+
+    优化速卖通页面
+
+[33mcommit 075fd7396bfe89c6111d3c0e46c4ae101f74d231[m
+Merge: 53f1b95 709dbe9
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 29 17:46:00 2020 +0800
+
+    合并代码
+
+[33mcommit 53f1b9573932c573fcc564872d35dfe150056f9a[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 29 17:38:46 2020 +0800
+
+    合并代码
+
+[33mcommit 709dbe92ea3ec31a92464c7c164c04a44d88e26e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 16:49:38 2020 +0800
+
+    优化
+
+[33mcommit a14efe0265c3c6648b095cbdfbf8ac1337bedd2a[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 14:20:42 2020 +0800
+
+    提交代码
+
+[33mcommit 61242878cbfe393d594829bedf625ed4c3096765[m
+Merge: 7a5883f fe793b8
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 10:00:52 2020 +0800
+
+    提交代码
+
+[33mcommit 7a5883f0060ec18979b5e3d23522d1f42c7af37b[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 09:59:05 2020 +0800
+
+    提交代码
+
+[33mcommit fe793b86027ba8a3c6a7b03c3e51759e1d438379[m
+Merge: a697017 3d0f529
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 29 09:58:44 2020 +0800
+
+    优化代码
+
+[33mcommit a697017bd45e16875fa3f7881d8fd257754864ca[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 29 09:53:01 2020 +0800
+
+    优化代码
+
+[33mcommit 3d0f529940039244552f15e8555c7596763d310b[m
+Merge: 43e12ee b9ec495
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 09:52:57 2020 +0800
+
+    提交代码
+
+[33mcommit 43e12ee56f6bb4d6b293bd2e75efb8d2125bc9cd[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 29 09:08:17 2020 +0800
+
+    拉去
+
+[33mcommit b9ec495617e5cc8469c4170fbc4155a57d3a7e4b[m
+Merge: e333749 3c1d365
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 29 09:07:11 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit e333749aa7ed6eda78fd5872837da5e0866340af[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 29 09:06:59 2020 +0800
+
+    优化代码
+
+[33mcommit 3c1d36540a9425ca2ff3ed9bdf78a1588a7970a2[m
+Merge: fa9e1db fc11cb2
+Author: 席昕 <940376696@qq.com>
+Date:   Wed Oct 28 04:50:14 2020 +0000
+
+    Merge branch 'master' into 'test'
+    
+    # Conflicts:
+    #   config/dev.env.js
+
+[33mcommit fa9e1db3ed1ebcee55b3f27e91ccb3b596e53032[m
+Merge: 5410569 c0ce310
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 28 12:35:32 2020 +0800
+
+    合并代码
+
+[33mcommit 5410569989de7a08659db43efd7965a120aa0d40[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 28 12:29:44 2020 +0800
+
+    优化代码
+
+[33mcommit c0ce3109efd9a54d08953f063d4f07437fcfa60c[m
+Merge: f3d5215 6d08983
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 28 12:20:47 2020 +0800
+
+    优化
+
+[33mcommit f3d5215495f33f888ca578d650886e55982ee168[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 28 12:19:27 2020 +0800
+
+    优化
+
+[33mcommit 6d089835508ff1cb24e3ab106f24ece37e32b185[m
+Merge: 144b497 0e2011f
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 28 11:40:43 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 144b497ab381b0a3534ee00e1a355f9384acb626[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 28 11:40:29 2020 +0800
+
+    优化‘listing监控’页面
+
+[33mcommit fc11cb210a3f9fe49c16e8190833daec18e21263[m
+Merge: 3806f4b 0e2011f
+Author: 席昕 <940376696@qq.com>
+Date:   Tue Oct 27 10:29:00 2020 +0000
+
+    合并分支 'test' 到 'master'
+    
+    合并代码
+    
+    查看合并请求 lemontree/mall-newweb!5
+
+[33mcommit 0e2011fac56d88a853c5fd4f34427de74a7cc282[m
+Merge: 597842f 2c17369
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 27 18:16:47 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 597842fa77204468ec9ae699c97135dec258b1ad[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 27 18:16:40 2020 +0800
+
+    优化
+
+[33mcommit 2c173691273a39aed922ca52607f93b9a1ec57a2[m
+Merge: 46dfdc0 379e3e7
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 27 18:06:09 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 46dfdc04ace23a2b081649ac9571d2787ae65dc8[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 27 18:06:02 2020 +0800
+
+    合并代码
+
+[33mcommit 379e3e70aa5dbbb03793f0c4f3d2ca48c04e7979[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 27 18:02:53 2020 +0800
+
+    优化
+
+[33mcommit dc51dca5c87e412dbdc2a85e98ce59d1f1db4ef4[m
+Merge: 586d0ff c9066ca
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 27 17:53:20 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 586d0ff6ef84b6fc53e05cc5ae689e3037844471[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 27 17:53:03 2020 +0800
+
+    优化
+
+[33mcommit c9066caa56cc9e5c1a9864e6bfe7458ece5ffed1[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 27 17:38:16 2020 +0800
+
+    优化代码
+
+[33mcommit 30cacb28f6fe74bd2ca591e63d077c429b525ae7[m
+Merge: 97e5a2d 9e5b72d
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 27 17:16:46 2020 +0800
+
+    密码加密
+
+[33mcommit 97e5a2dde516fad3121f650c4932243b23ab3064[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 27 17:13:26 2020 +0800
+
+    密码加密
+
+[33mcommit 9e5b72d55e7ca14ac2b7de828e3de0ade1cdabc0[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 27 17:08:39 2020 +0800
+
+    优化代码
+
+[33mcommit 8c2d732a6d656ebaf04d3c5c8df7cbd0e5e3751b[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 27 12:56:50 2020 +0800
+
+    优化代码
+
+[33mcommit 3806f4b62584f31e2afa03073c07cb3d8f7a55ba[m
+Merge: edb54b5 81279f1
+Author: 席昕 <940376696@qq.com>
+Date:   Mon Oct 26 12:33:12 2020 +0000
+
+    合并分支 'test' 到 'master'
+    
+    合并代码
+    
+    查看合并请求 lemontree/mall-newweb!4
+
+[33mcommit 81279f167fb87b62bb18d9edcd4e26a845bf3029[m
+Author: 蓝俊辉 <1752537899@qq.com>
+Date:   Mon Oct 26 12:33:12 2020 +0000
+
+    合并代码
+
+[33mcommit 79d41b8a73acdc8dc24f467f340e5dfdd23bdb7a[m
+Merge: 03e2de2 edb54b5
+Author: 席昕 <940376696@qq.com>
+Date:   Mon Oct 26 12:33:04 2020 +0000
+
+    Merge branch 'master' into 'test'
+    
+    # Conflicts:
+    #   config/dev.env.js
+    #   src/components/ScrollSelect/index.vue
+    #   src/views/lm/listingMonitoring/listingMonitoring.vue
+
+[33mcommit 03e2de24c1e42e0ac32be6e98887f259a6b88486[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 26 20:29:37 2020 +0800
+
+    优化代码
+
+[33mcommit edb54b5480e329362c3f4d3e80ccab2feee92f86[m
+Merge: 78b8583 4986ba2
+Author: 席昕 <940376696@qq.com>
+Date:   Mon Oct 26 12:03:41 2020 +0000
+
+    合并分支 'test' 到 'master'
+    
+    合并
+    
+    查看合并请求 lemontree/mall-newweb!3
+
+[33mcommit 4986ba2930857e9d06905555af6b44ce5c35c721[m
+Author: 汤武 <1549968751@qq.com>
+Date:   Mon Oct 26 12:03:41 2020 +0000
+
+    合并
+
+[33mcommit f3cfb817ea2582098b00775fe15ccc379270b6c8[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 26 19:59:52 2020 +0800
+
+    提交
+
+[33mcommit 0ff8526c08223b805010dbb38248e89c2146b06f[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 26 19:57:03 2020 +0800
+
+    合并
+
+[33mcommit 121bfa41344ec0a133fabe615fee8d3122983b34[m
+Merge: f23a46e 920b81c
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 26 19:51:49 2020 +0800
+
+    合并
+
+[33mcommit f23a46e9c83dbc8bda6d2d74e53097dffb1c35d6[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 26 19:51:23 2020 +0800
+
+    合并
+
+[33mcommit 920b81c8209617a9f9beb0aa424157a9b235f18c[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 26 19:50:52 2020 +0800
+
+    优化‘listing监控’模块
+
+[33mcommit 58983e3f1767b318c1978d6376f7569821fe2e27[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 19:52:40 2020 +0800
+
+    优化代码
+
+[33mcommit dfccb5a2291724f2e8fa44c1e39583f96efd4423[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 19:47:35 2020 +0800
+
+    优化代码
+
+[33mcommit ec66e453bb8cdf38e56c260afc161225f77e35e0[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 19:41:57 2020 +0800
+
+    优化代码
+
+[33mcommit 71ac2acd6f3bc82e8dd741907ce211d6b94c8a3f[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 19:30:32 2020 +0800
+
+    优化代码
+
+[33mcommit fc0bdef1575a2607d3f03cad6f1a901c937f6fb0[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 19:22:01 2020 +0800
+
+    优化代码
+
+[33mcommit 62471101bc8e1334e97a2ae8e501912089ccd9d7[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 19:13:42 2020 +0800
+
+    优化代码
+
+[33mcommit b2c66409281f0537582037ea3433f47530cd6f26[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 18:19:50 2020 +0800
+
+    优化‘listing监控’模块中样式布局
+
+[33mcommit ade50168366f79768edcf44e74b141e40cad7125[m
+Merge: 49875f1 83922f6
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 18:17:32 2020 +0800
+
+    优化‘listing监控’模块中样式布局
+
+[33mcommit 49875f1f74cfd322589e1aefc7050505a69c4ba6[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 18:16:23 2020 +0800
+
+    优化‘listing监控’模块中样式布局
+
+[33mcommit 83922f6bc92b6cbe3a06d5e86ae92c2464a3f984[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 18:15:23 2020 +0800
+
+    提交代码
+
+[33mcommit 1ad6c55a7ec24db3a9faf546670854a03c05643a[m
+Merge: 73a91d4 0c0254d
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 17:05:39 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 73a91d476a518301d22167762ef801e2748f1a26[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 17:05:34 2020 +0800
+
+    拉取
+
+[33mcommit 0c0254dca605b3efd9aece19e6d8b881c6808d3d[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 17:04:58 2020 +0800
+
+    优化代码
+
+[33mcommit fe5bfca62ef56e24e4acd330a4eab49f51e24bef[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 16:05:17 2020 +0800
+
+    优化代码
+
+[33mcommit 5fd46be1d3c9c660c2e9ae8f41ffeddb79431e60[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 15:35:50 2020 +0800
+
+    修复代码
+
+[33mcommit 122442812d433b018bff1e0f8f9f6334f08ba24d[m
+Merge: eb3dfc4 ef1643b
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 15:00:13 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit eb3dfc4ce1a7ac6e3e8de2ae07a6d280c6447c86[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 15:00:06 2020 +0800
+
+    优化代码
+
+[33mcommit ef1643bf631b591fb7a63684f77ffb5227cbb9c7[m
+Merge: b12067e 58fd31d
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 14:47:54 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit b12067e8423fdcd0fe23471b22e2199b521117ea[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 14:47:48 2020 +0800
+
+    优化代码
+
+[33mcommit 58fd31d1a521723f7ce329b195edb64edce68660[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 14:46:11 2020 +0800
+
+    优化参数配置启用停用
+
+[33mcommit 57469358cc8abffebefedc798633a21035a47828[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 14:13:59 2020 +0800
+
+    优化代码
+
+[33mcommit 4f96011ab62586699b14f7314823df7f9b435d27[m
+Merge: 7e75548 d08aa53
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 11:20:32 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 7e75548c00d3d930e49059568d72616f5197d0f6[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 11:20:28 2020 +0800
+
+    拉取代码
+
+[33mcommit d08aa539323386d726f79592f3c49a483042a0f5[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 11:20:05 2020 +0800
+
+    完成复制指令
+
+[33mcommit ff27e4864bb5e043a334867cbef8d96cfe2525b2[m
+Merge: 852d584 d390f37
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 09:40:12 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 852d584473a750d88cbe7b9a3b6f05c70891249f[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 23 09:40:09 2020 +0800
+
+    拉去
+
+[33mcommit d390f37825cdf89c8a4cfbb55301fd844b1ff523[m
+Merge: 6569a30 bec00dc
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 09:39:41 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 6569a30876a41710030e17b3811dba8f67e306cd[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 23 09:39:34 2020 +0800
+
+    优化代码
+
+[33mcommit bec00dc10ed88ac680d57947efe96fe9c125b786[m
+Merge: c92d234 ae29628
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 22 18:17:28 2020 +0800
+
+    提交代码
+
+[33mcommit c92d234ad466dc40e32daca65cbb58cce28a511d[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 22 15:11:38 2020 +0800
+
+    拉去代码
+
+[33mcommit ae2962840716d1d435dcb658b7a39fe5dfb9e0f3[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 15:00:43 2020 +0800
+
+    优化代码
+
+[33mcommit 8900f598f36bc1e837695150532d3addb44ebfb6[m
+Merge: 3e428ee 142e88b
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 13:41:20 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 3e428ee95d874df1726ff5667f0c5e60c3570e46[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 13:41:16 2020 +0800
+
+    优化代码
+
+[33mcommit 142e88bca485a19548f1b14df594a157ffca3dba[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 22 13:40:38 2020 +0800
+
+    拉代码
+
+[33mcommit d8e8e9c543ec1bca2e7d9b8b43f4748fa6a789a6[m
+Merge: 609f77d 26d7e8b
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 22 13:36:48 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 609f77d206a7635afb36afc46595de4155a5eb85[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 22 13:36:44 2020 +0800
+
+    拉代码
+
+[33mcommit 26d7e8ba2a6ec7ffdb37ee337362b11c6cb938f5[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 13:36:18 2020 +0800
+
+    合并代码
+
+[33mcommit 4b7def09cd12da277882f9f94757d2ca2c360f4c[m
+Merge: 3d278c5 5f4bf33
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 11:21:01 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 3d278c515184b0484b88ae7d7756ad7962114f41[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 11:20:55 2020 +0800
+
+    优化代码
+
+[33mcommit 5f4bf332efb5537a822d50aab68d28e066a5d073[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 22 11:18:05 2020 +0800
+
+    提代码
+
+[33mcommit 66e4ae457114ec745b0eb00641c0361c08272346[m
+Merge: a34ce87 cf0da70
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 09:44:59 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit a34ce87237f0df7d4664ad5d63eb59938d665e17[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 22 09:44:48 2020 +0800
+
+    优化代码
+
+[33mcommit cf0da707c68cf42a391dbc5ef91f35ea69305227[m
+Merge: 2823492 065e595
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 19:09:37 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 2823492fcc65acc8a4791563458fde4ab9104339[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 19:09:34 2020 +0800
+
+    优化筛选条件
+
+[33mcommit 78b85834c9dd50409e839ccab069895e6df1bb1b[m
+Merge: 55d1d29 065e595
+Author: 席昕 <940376696@qq.com>
+Date:   Wed Oct 21 08:01:31 2020 +0000
+
+    合并分支 'test' 到 'master'
+    
+    合并代码
+    
+    查看合并请求 lemontree/mall-newweb!2
+
+[33mcommit 065e59512388e67979869cce5f76907236259479[m
+Merge: 0f1ad67 a517c8e
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 14:58:32 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 0f1ad679b32285d063ab4dda897e1ff9a20f1f58[m
+Merge: c7e4793 55d1d29
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 14:57:45 2020 +0800
+
+    合并代码
+
+[33mcommit a517c8e6e064b6d8c9f1ce512ccaa42baa002bcb[m
+Merge: f04f97a c7e4793
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 14:45:19 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit f04f97a83ed226d32ae938f9a7e3434b2a8d4c73[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 14:45:13 2020 +0800
+
+    提交代码
+
+[33mcommit c7e4793a165cc78bf31170247b01699f3baf9dbf[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 14:42:34 2020 +0800
+
+    优化代码
+
+[33mcommit 63ff66fa3d578cab1d8d1c820f0b95e3cc8fa761[m
+Merge: 9beeb7c 5c5b2bb
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 13:54:27 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 9beeb7ca6f90edce4ce4648dced4669a52c6b3a2[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 13:54:23 2020 +0800
+
+    合并代码
+
+[33mcommit 5c5b2bbfa4e6fc317fe67587f9c06d31032eebfc[m
+Merge: 9cc2aaa 6905355
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 13:44:12 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 9cc2aaa9480e0b4aa28a97185bac73c318ef9a5c[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 13:44:02 2020 +0800
+
+    添加配置环境文件
+
+[33mcommit 690535509e8f0ecf0e56baac479ceef990b01379[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 11:02:31 2020 +0800
+
+    提交代码
+
+[33mcommit cbcd2e2e8bde9e7f839672d1179da2cd3b1b3737[m
+Merge: bc1922f b6b9b52
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 10:56:53 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit bc1922f76ba44e234f68b7890844c3098bd8f2f3[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 10:56:45 2020 +0800
+
+    提交代码
+
+[33mcommit b6b9b5276e87593aa9127738a3bd4ce0ea4737ac[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 10:35:10 2020 +0800
+
+    优化代码
+
+[33mcommit cc33c7f4a580cb514eeb1e4f1720ed02ad6d379c[m
+Merge: f99b150 587dc7d
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 09:39:24 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit f99b150835b4258c37452a2ab56fc15889d26c60[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 21 09:39:15 2020 +0800
+
+    合并代码
+
+[33mcommit 587dc7d9ecc1472138d842e66efdf9aba06fa514[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 09:33:15 2020 +0800
+
+    优化代码
+
+[33mcommit 1ec8040b9698df0552ebeb95bded9f56bdfe4874[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 09:26:55 2020 +0800
+
+    优化代码
+
+[33mcommit 2724c8de9d20124cf1269aa2a50fcefd9dc71e38[m
+Merge: 8860bbb e2a0ebc
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 09:24:26 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 8860bbb669a3e681a98278013579ae267207f765[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 21 09:24:17 2020 +0800
+
+    优化代码
+
+[33mcommit e2a0ebc8c5d25d03afa62cdb8ec7c52ae67f35d9[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 20 20:09:18 2020 +0800
+
+    合并代码
+
+[33mcommit ecead8070b5c2de336c866f90fa703ef537ced9e[m
+Merge: 14089b1 16315ce
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 20 20:08:19 2020 +0800
+
+    合并代码
+
+[33mcommit 14089b1db3a4740c82f01fe3a5304b6a74eb49f7[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 20 20:07:39 2020 +0800
+
+    合并代码
+
+[33mcommit 16315ced79b07072fa7cc8a0a71b81eeaed5afff[m
+Merge: db6b56c 2a5c89f
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 20 20:04:50 2020 +0800
+
+    优化代码
+
+[33mcommit db6b56cf05bf692813e9c9b5b74be2b9e84edaa8[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 20 15:39:06 2020 +0800
+
+    优化代码
+
+[33mcommit 2a5c89f665f8c360d929a9f8d56c868b9d30db96[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 20 15:37:18 2020 +0800
+
+    新增修改密码，优化速卖通listing
+
+[33mcommit c6d3c942f034800f19779771c94b11dc5f4b73eb[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 19 20:10:25 2020 +0800
+
+    提交代码
+
+[33mcommit 4209707ba95d6763ed390290d0fad4fcf257976e[m
+Merge: 326fc4d 2e45985
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 19 19:15:56 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 326fc4d07ebc3bd66f1a2547e26d86eb524ecb7d[m
+Merge: 5246790 741e65f
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 19 19:15:48 2020 +0800
+
+    完成'Ali listing'模块中的'变体'
+
+[33mcommit 55d1d295e473de2a47c71669c9acb768c254bbd8[m[33m ([m[1;32mmaster[m[33m)[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 19 17:33:07 2020 +0800
+
+    提交代码
+
+[33mcommit 2e45985b18e7a62ab80a53b12488137923fa82dd[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 19 17:13:46 2020 +0800
+
+    提交代码
+
+[33mcommit ab529a489ea7359bbb3b949de578deb91b66905c[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 19 17:03:47 2020 +0800
+
+    发布线上
+
+[33mcommit 5246790c96d95e52a5d4e3b6706855f0c5219f85[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 19 14:55:46 2020 +0800
+
+    合并代码
+
+[33mcommit 741e65f536043a05fd5a28400056e2cb55c5e263[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 19 13:26:51 2020 +0800
+
+    优化样式
+
+[33mcommit 579de58868aad203f160de86635f0196e93701d2[m
+Merge: 35d67b7 a50e57d
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 18:20:05 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 35d67b74c81bb8b7a944687b5fabb3021b065376[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 18:19:48 2020 +0800
+
+    优化报告中心
+
+[33mcommit a50e57d028bec601d6322fdec994a0eb6e670ec3[m
+Merge: 4846578 79be670
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 16 16:51:49 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 4846578bd7eafd51ab27cf9cc7b7bdcd5917e6af[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 16 16:51:44 2020 +0800
+
+    优化代码
+
+[33mcommit 79be67049fa59ab6ad6da2325591f5051c93d894[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 16:48:55 2020 +0800
+
+    优化代码
+
+[33mcommit 73736585b131189d37c52504a137fc799c4309a9[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 16:39:09 2020 +0800
+
+    优化代码
+
+[33mcommit 4fb36c5ada784814b591c5a7fc4e9a1a627d3a5a[m
+Merge: 91680d8 00235d5
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 16 16:32:40 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 91680d8859df3f6edd2e6004a62f6fcdce332207[m
+Merge: f1a6161 86675d5
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 16 16:31:35 2020 +0800
+
+    合并代码
+
+[33mcommit 00235d53b739aff3752ec43fbf9ed56e35741fb1[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 16:25:04 2020 +0800
+
+    拉取代码
+
+[33mcommit f1a61610d684850531b50f53fd2d76f650ec1e9e[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 16 16:06:30 2020 +0800
+
+    完成'listing监控页面'
+
+[33mcommit 86675d595b25d3dae4687e3175885515dd59103e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 16:04:46 2020 +0800
+
+    优化代码
+
+[33mcommit 494030e2c82bc62cc8371737a31aef2983f298c7[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 11:06:55 2020 +0800
+
+    优化
+
+[33mcommit 4398d1dc3a2cff61a80dcbd497c0816e43508412[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 16 10:49:16 2020 +0800
+
+    优化报告中心提交任务参数
+
+[33mcommit 91dd0e508839555d2aadd61e9ea0c3056385aa83[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 18:06:03 2020 +0800
+
+    优化代码
+
+[33mcommit 271dba490449d7708da8f96f7b06499afa4ca0d0[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 18:02:56 2020 +0800
+
+    优化代码
+
+[33mcommit e3a679e31cf4ff8bae36a95cef0c7f250317c6ab[m
+Merge: d6bec98 f4e1bac
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 17:58:28 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit d6bec9893b416136397e1dacc852d8be483d95d2[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 17:57:40 2020 +0800
+
+    合并代码
+
+[33mcommit f4e1bacc7edc93b968afa23932cd77e72d0fae85[m
+Merge: 3ec86c9 6fcef87
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 15 17:54:31 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 3ec86c95f2fdf9d2b39481ea46872f398d9d9a40[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 15 17:54:22 2020 +0800
+
+    优化代码
+
+[33mcommit 6fcef87c7779c7ee20b63895ea7241bd7b457fa2[m
+Merge: 0e551f9 57cd86d
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 16:08:36 2020 +0800
+
+    优化表格样式
+
+[33mcommit 0e551f94ac569f719a404f0e8f118d07fb04233e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 16:07:54 2020 +0800
+
+    优化表格样式
+
+[33mcommit 57cd86db543e030560af3431b491df28b234fa1e[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 15 11:55:09 2020 +0800
+
+    修改‘参数配置’模块中‘添加’按钮代码
+
+[33mcommit c9c772f14c50987482042f13286b86ae9c852141[m
+Merge: cf2ecaf 40818ca
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 10:26:01 2020 +0800
+
+    合并代码
+
+[33mcommit cf2ecafb025d3a11c6d0a4fced690bfbfe6bceae[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 15 10:24:09 2020 +0800
+
+    合并代码
+
+[33mcommit 40818ca0315c00a0da10e2d737ecd6a1987557f9[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 15 10:20:35 2020 +0800
+
+    修复‘仓库列表’树形结构bug
+
+[33mcommit b6abe8f41a5fbdb66b615fe830c632ebe19f782a[m
+Merge: 54e0f71 1d6bd48
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 14 19:16:56 2020 +0800
+
+    合并代码
+
+[33mcommit 54e0f717a6296aa84d040f2a6dd688bdd2a1084c[m
+Merge: f2b4fd5 fba7874
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 14 19:14:18 2020 +0800
+
+    合并代码
+
+[33mcommit 1d6bd4853df3a3c091b7303acf01318c2931a225[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 14 18:58:21 2020 +0800
+
+    优化参数配置日志
+
+[33mcommit bdf6e475ca303bf4c4a4781b6004de724bbae08f[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 14 18:53:39 2020 +0800
+
+    优化仓库列表搜索条件
+
+[33mcommit f2b4fd54479d6a10c2014be73287e522de739925[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 14 17:18:43 2020 +0800
+
+    修复登出账号时卡顿问题
+
+[33mcommit fba7874c8b71423a191e85debce26e9c84e80937[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 14 17:18:03 2020 +0800
+
+    优化仓库列表页面搜索条件
+
+[33mcommit daf627b560bd03944f61839868c62229380a0872[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 13 19:34:42 2020 +0800
+
+    完成仓库列表页面
+
+[33mcommit 8c4c0373de867aee8a91ed7c8987eadeac250086[m
+Merge: d489ed3 36fb78b
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 13 14:11:26 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit d489ed366c47038237e2e3e8710b3221837d1e26[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 13 14:11:19 2020 +0800
+
+    拉取代码
+
+[33mcommit 36fb78b42d935223003d9117373db89996484385[m
+Merge: e61f0ad cb28263
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 13 14:10:47 2020 +0800
+
+    合并代码
+
+[33mcommit e61f0ad514e50e28eeb76a399b5bce0d6613e79f[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 13 14:04:28 2020 +0800
+
+    初步完稿‘listing监控’模块 、优化代码
+
+[33mcommit cb28263c9755bb3a17de629ff388cbac2096e5ed[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 12 20:00:44 2020 +0800
+
+    优化注册编辑角色头像问题
+
+[33mcommit 03795e55b2c52e07385382b11bb6d9d22b9592fe[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 12 17:33:23 2020 +0800
+
+    优化产品信息
+
+[33mcommit 6de16511deaa4d78addfb5d81c9883307e59a2b1[m
+Merge: a1c5fbd c2d7787
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 12 16:16:30 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit a1c5fbd50e4fe347b8cf7bb4122d4155f40970f9[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 12 16:16:18 2020 +0800
+
+    优化产品信息
+
+[33mcommit c2d778782152f00fe56be69f5cbee7b7ec43216a[m
+Merge: b7ee391 932523d
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 12 16:15:40 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit b7ee39125a5008693323509d1cbb5a88a7f274be[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 12 16:15:28 2020 +0800
+
+    修复‘权限管理’模块中bug
+
+[33mcommit 932523d5b2ee4f37f920307b76e7d2a2ed683ffd[m
+Merge: 2b57265 abf61a6
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 12 11:34:58 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 2b572650fadb541c26b32bc49703235093ee9073[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 12 11:32:47 2020 +0800
+
+    合并代码
+
+[33mcommit abf61a6c0dc715ebcc961c6f0e5f91456400ad78[m
+Merge: 1a460ec b79ae76
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 12 11:30:51 2020 +0800
+
+    合并代码
+
+[33mcommit 1a460ec8cce9580ada23d6ddba5674b252022c64[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 12 10:31:39 2020 +0800
+
+    合并代码
+
+[33mcommit b79ae7627253beaf11b79f5013a2da28fe3e32ce[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 12 10:27:26 2020 +0800
+
+    优化代码
+
+[33mcommit 02bc9ed0043c8c2a653d83f0a2a054c1a83c47de[m
+Merge: e50b5b1 ab4b2ff
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 10 19:30:58 2020 +0800
+
+    合并代码
+
+[33mcommit e50b5b1306ec61b6e70671f24807c17267cb4288[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 10 19:29:00 2020 +0800
+
+    优化代码
+
+[33mcommit ab4b2ff9f26f7b0ad244de8f033b7d7e4df63b2f[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 10 18:38:53 2020 +0800
+
+    优化按钮权限
+
+[33mcommit 22111c7e9cfa69bbdc14fa5fc1b0465af8226683[m
+Merge: 19eac94 3972416
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 10 17:50:13 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 19eac94393c5f777988962fb0d5437017a592b9c[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 10 17:50:08 2020 +0800
+
+    合并代码
+
+[33mcommit 3972416c517aedba306a6fd68038e4c011c76962[m
+Merge: b0170b7 1910b25
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 10 17:49:42 2020 +0800
+
+    合并代码
+
+[33mcommit b0170b79329fcbbefd4f1c828b62e411ec6a349c[m
+Author: woniu <1752537899@qq.com>
+Date:   Sat Oct 10 17:39:21 2020 +0800
+
+    优化表格高度使之自适应
+
+[33mcommit 1910b257b6b7db1e256f782efde39f244b88594d[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Oct 10 17:00:24 2020 +0800
+
+    优化代码
+
+[33mcommit 30a7ae0c8ba42df57a3e9b3f69d3a9570bc56ec1[m
+Merge: bc87b5a a3fd6e9
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 9 21:12:15 2020 +0800
+
+    优化头像
+
+[33mcommit bc87b5af012ebd83bc916435ccefbb460b3daaf4[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 9 21:11:19 2020 +0800
+
+    优化头像
+
+[33mcommit a3fd6e90edce696d8c63ab50dc1b0deb9410e11f[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 9 21:10:45 2020 +0800
+
+    优化代码
+
+[33mcommit b48c2c001da4639a1f8286315f67b9c5b0c21211[m
+Merge: ea44050 c64ebe8
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 9 18:13:45 2020 +0800
+
+    初步完成‘首页’模块
+
+[33mcommit ea44050e3e67d94e96c7476c783448e91cdce25e[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Oct 9 13:01:05 2020 +0800
+
+    合并代码
+
+[33mcommit c64ebe840a7f285176db98173b962378d6faf70f[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 9 12:57:21 2020 +0800
+
+    代码优化
+
+[33mcommit c9d713935a82031edc511b8e7fb7da983c7e3054[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Oct 9 10:00:12 2020 +0800
+
+    优化数据导入页面
+
+[33mcommit 57de113196b59faa2cc985693da7a12f9347e1f9[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 8 19:41:08 2020 +0800
+
+    优化菜单列表编辑菜单出现重复添加的bug
+
+[33mcommit ff688351dbb705d5e0c03e966d408d349aa4d7ef[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 8 17:22:37 2020 +0800
+
+    优化数据导出，任务监控页面
+
+[33mcommit a565fc7f6a75c23c3c0230fdf33ae7689d3341ac[m
+Merge: 5e49bef 8c21fc0
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 8 09:50:53 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 5e49bef92506d23964f838d21c827ed1fac9dbbd[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Oct 8 09:50:49 2020 +0800
+
+    合并代码
+
+[33mcommit 8c21fc062f6af25afcc85bf494157dd7bea05c0d[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Oct 8 09:50:16 2020 +0800
+
+    修改‘日志’组件调用方法
+
+[33mcommit 4686fe4ef8927d6c902512acfc31894a2b61ea79[m
+Merge: 5946f73 3484a6b
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 7 19:34:29 2020 +0800
+
+    把‘日志’模块抽离出单独组件
+
+[33mcommit 5946f73d58ab4fb131d3f02fb74117586fb41aa7[m
+Merge: 3c3b4a9 83212be
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 7 19:32:48 2020 +0800
+
+    把‘日志’模块抽离出单独组件
+
+[33mcommit 3484a6bf2ade9be80f143671f5fbf3626e44dfe4[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 7 19:31:24 2020 +0800
+
+    优化数据导入页面
+
+[33mcommit 3c3b4a9546871619ef07dce58d0d77f7bed9a619[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 7 17:55:11 2020 +0800
+
+    抽离‘日志’为单独组件
+
+[33mcommit 83212beb4d35f3e4d2c3408c270c6412f5f759af[m
+Merge: 6a89294 0a3cc2a
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 7 17:51:36 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 6a892945f9f4a76b14e7f5f36f9a5046f28de13a[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 7 17:51:32 2020 +0800
+
+    优化数据导出页面
+
+[33mcommit 0a3cc2ad4c220e649e434accce796dccb01b386a[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Oct 7 13:36:00 2020 +0800
+
+    优化‘登录’模块界面不同分辨率排版错乱问题
+
+[33mcommit 26814ba0b3e41f506dce530bbac0de9f45989c47[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 7 09:32:13 2020 +0800
+
+    提交代码
+
+[33mcommit 5a28c350c85749e22e679fcde648897fae3a64c9[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Oct 7 09:25:30 2020 +0800
+
+    提交代码
+
+[33mcommit eedbca10ae632eb4d25fa3e30b338e3a83817318[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 6 20:08:18 2020 +0800
+
+    优化'sidebar'模块
+
+[33mcommit 13a067d3ee5d908fe426ed109f1b578ff5a90d53[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 6 18:55:02 2020 +0800
+
+    优化'sidebar'模块中icon
+
+[33mcommit 5ef480679bbc068e3f8f7b09ab7e510ff5ec0cd0[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 6 16:24:14 2020 +0800
+
+    优化'参数配置'界面及代码
+
+[33mcommit 2b82210cb3db0aa65d9e45b883a94e6704b9e0b0[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 6 13:46:39 2020 +0800
+
+    优化代码
+
+[33mcommit 14492a6e4199bb560c2e8e18a93e45b492e813a8[m
+Merge: 8c135c2 fb7696d
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 6 11:17:20 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 8c135c21cfd90367a7429a278bb4cc4346c4567f[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Oct 6 11:17:14 2020 +0800
+
+    优化代码
+
+[33mcommit fb7696dfe32d677b03fe9c01da579ce288628ec7[m
+Merge: 75de492 67471d2
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 6 11:16:42 2020 +0800
+
+    优化代码
+
+[33mcommit 75de492b6b61381ef7589c6eae44cd1daa3c87fa[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Oct 6 11:15:06 2020 +0800
+
+    优化代码
+
+[33mcommit 67471d29de092c05f6085664569e0124fad366a7[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 5 16:22:02 2020 +0800
+
+    优化代码
+
+[33mcommit e3c9859976ec7d392f654d34f104c8a36d450800[m
+Merge: 5bdca69 6bfd0fc
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 5 14:50:12 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 5bdca697628ff74f42ed31c7bc23a5e345f522ef[m
+Author: woniu <1752537899@qq.com>
+Date:   Mon Oct 5 14:50:06 2020 +0800
+
+    合并代码
+
+[33mcommit 6bfd0fc6d29678e8de6bf147ce70e61172dd0cb4[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 5 14:48:53 2020 +0800
+
+    数据导入页面完成
+
+[33mcommit a3723ba0913819e3f675d83bd019af6c6bdc6aaf[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Oct 5 09:10:18 2020 +0800
+
+    ebay页面完成
+
+[33mcommit e3379eaa12bc6386a5e8f452a85b51a7a387740e[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 30 18:27:35 2020 +0800
+
+    完成'参数配置'模块中的日志功能
+
+[33mcommit e731d1cc49abb2b63ca73ce573604d0724d7d98f[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 30 16:44:35 2020 +0800
+
+    修改代码
+
+[33mcommit 77c34b6a553d21ec5565281a7925b0571fc6be43[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 30 16:25:54 2020 +0800
+
+    修改代码
+
+[33mcommit 38db60e741f71f7eafc29479d700ac2a06bd88df[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 30 16:09:36 2020 +0800
+
+    优化代码
+
+[33mcommit 00f114ee9cad61286bad45bd3497fbfdc55554d5[m
+Merge: a6ee21c 2da5164
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 30 09:02:14 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit a6ee21cf9ac71f96ff8c620b5bc62ccb31020826[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 30 09:02:01 2020 +0800
+
+    1.完成'速卖通平台'和'eBay平台'模块界面 2.优化代码
+
+[33mcommit 2da5164486373447308e2955a6cf83b64a5b0978[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Sat Sep 26 16:54:09 2020 +0800
+
+    修复任务监控页面中参数数据类型拿不到的bug
+
+[33mcommit acf7147d384ffd331932844f72b0fdbe2f208e6e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Sep 25 14:57:08 2020 +0800
+
+    测试
+
+[33mcommit f6733e210c13460ef5b86ace7d21fc8bfcef6229[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Sep 25 11:14:02 2020 +0800
+
+    提交代码
+
+[33mcommit 150e48484bce011e3bef3068fcf2171a7c835a04[m
+Merge: 04a3830 15d489a
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Sep 25 11:04:25 2020 +0800
+
+    合并代码
+
+[33mcommit 04a383017bdc0738ad4ac140c7a5d9569c6abb99[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Fri Sep 25 11:03:42 2020 +0800
+
+    合并代码
+
+[33mcommit 15d489a6105636397e7b2e3414a7af097040872a[m
+Author: woniu <1752537899@qq.com>
+Date:   Fri Sep 25 10:45:51 2020 +0800
+
+    优化代码
+
+[33mcommit eabbf0f942467fcd1edf3e92cbcbc8a78cb830f5[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Sep 24 19:27:35 2020 +0800
+
+    修复'全屏按钮'失效问题
+
+[33mcommit dc978350eec6407ab621af574dec4783e323d7b2[m
+Merge: a6bca16 ea3e525
+Author: woniu <1752537899@qq.com>
+Date:   Thu Sep 24 19:26:22 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit a6bca161659012b3bf2ebf4c270d4af9f5f1bd26[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Sep 24 19:26:17 2020 +0800
+
+    修复'全屏按钮'失效问题
+
+[33mcommit ea3e525174572b62d28d55a3a44094e086ba65c2[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Sep 24 19:19:54 2020 +0800
+
+    提交代码
+
+[33mcommit da10f59814dd7fa5787303f68e8b9044dfa7b141[m
+Merge: 302351d d38efd2
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Sep 24 17:58:57 2020 +0800
+
+    汇率页面完成，修复菜单权限编辑值为null的bug
+
+[33mcommit 302351d9194bb99d401e4afc9910c5a22332c3b0[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Thu Sep 24 17:57:40 2020 +0800
+
+    汇率页面完成，修复菜单权限编辑值为null的bug
+
+[33mcommit d38efd2162bba91e496dd322bb582c903080e77d[m
+Author: woniu <1752537899@qq.com>
+Date:   Thu Sep 24 17:33:05 2020 +0800
+
+    优化‘产品信息’模块代码、把‘产品信息弹出框‘抽离出单独组件
+
+[33mcommit 1398232ffbd89aad58afad965556cc68c46cd025[m
+Merge: 5155fd1 ad719df
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 20:04:27 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 5155fd131deeadf73cd0bc3ab7d2d428742940c4[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 20:04:21 2020 +0800
+
+    拉取代码
+
+[33mcommit ad719dfadabb5de9388e0018f738eee906beb941[m
+Merge: 2c86939 1756b03
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 20:03:34 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 2c86939295f94d5a9cf150318989762590b5bba1[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 20:03:26 2020 +0800
+
+    完善‘产品信息’模块页面
+
+[33mcommit 1756b03abca35b332017faccedaccb58b9fc5861[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 19:39:31 2020 +0800
+
+    icon图标打包上线丢失原因
+
+[33mcommit 68416f388883d5aef3cb14fe4ad249cdb6684266[m
+Merge: 8a5c6f6 eb856f3
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 19:25:58 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 8a5c6f687f286ed5ab235353eebd9f371dca411a[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 19:25:51 2020 +0800
+
+    合并测试
+
+[33mcommit eb856f324caf3a45f917d358ce2863afb11fda16[m
+Merge: 963b9a8 25e9283
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 19:25:30 2020 +0800
+
+    完善‘产品信息’模块页面
+
+[33mcommit 963b9a87110c27e263d07f54e46317e91ce0369f[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 19:23:52 2020 +0800
+
+    完善‘产品信息’模块页面
+
+[33mcommit 25e9283c74d531121115f4ae233850554c17ad02[m
+Merge: 4a9f79d bd42edb
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 17:12:49 2020 +0800
+
+    合并代码
+
+[33mcommit 4a9f79d7dd613f5724f9f982567845bd133a206d[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 17:11:08 2020 +0800
+
+    合并代码
+
+[33mcommit bd42edbf2bda0e423cea8f2ee93734b987d9a552[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 17:02:32 2020 +0800
+
+    优化代码
+
+[33mcommit 30f43d0c22cc4a862cca75ecc1c2259326dff07e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 15:23:46 2020 +0800
+
+    测试
+
+[33mcommit 4464598667831781c62254aed2711ae0aeb5af95[m
+Merge: 7460d2f 94f91d5
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 15:03:17 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 7460d2ffa9b6f4050258bf84494d6e01f80ebc4a[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 15:03:03 2020 +0800
+
+    优化‘产品信息’模块中‘图片功能’
+
+[33mcommit 94f91d517bd0ea202bc0972f9112f5c88f9c2cfc[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 14:58:31 2020 +0800
+
+    库存页面完成
+
+[33mcommit a2030d96e98fd6cafaf54de81e20df7c6f259eff[m
+Merge: a0144d2 4c503a3
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 10:54:34 2020 +0800
+
+    合并代码
+
+[33mcommit a0144d27cefe607dc04db120167e2a3c41ec8370[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Wed Sep 23 10:51:05 2020 +0800
+
+    库存页面，合并代码
+
+[33mcommit 4c503a390bbc14332dcd919b82d864cb214dccf4[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 10:50:20 2020 +0800
+
+    优化项目
+
+[33mcommit 533b4020d1a227fba7f523874b96e34c74bb16b7[m
+Author: woniu <1752537899@qq.com>
+Date:   Wed Sep 23 10:34:43 2020 +0800
+
+    优化项目
+
+[33mcommit 161ad2047ae8a42f886906dd668bb9248425b461[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Sep 22 20:09:35 2020 +0800
+
+    prod.ENV.JS
+
+[33mcommit c31f3a3d53cf3f73d1e5eb59f13beb84171294bb[m
+Merge: 2dac4cb 94465bc
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Sep 22 20:03:59 2020 +0800
+
+    产品信息页面，渠道管理页面完成
+
+[33mcommit 2dac4cbfd8abfa004fb658593991d3c64ebc3413[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Sep 22 13:43:34 2020 +0800
+
+    拉取
+
+[33mcommit 94465bc21f1a3254096cf781c20f6d8c1b53b645[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Sep 22 13:42:45 2020 +0800
+
+    完善‘产品信息’模块
+
+[33mcommit 853bed964b6b9095eb6576bf43974b361b6462d6[m
+Merge: 0992a45 3e1246e
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Sep 22 12:59:40 2020 +0800
+
+    合并当前代码
+
+[33mcommit 0992a45c40a9b3b65dcf1376541e3a59b070bf2e[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Tue Sep 22 12:57:26 2020 +0800
+
+    产品分类树形表格完成
+
+[33mcommit 3e1246ed55f64944ae8b73dc3a515bea56c471cf[m
+Author: woniu <1752537899@qq.com>
+Date:   Tue Sep 22 12:56:03 2020 +0800
+
+    完成‘产品信息’模块中'基本详情'功能
+
+[33mcommit b09da1f6365e6bdff420ecbe657d6a06b3d5f270[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Sep 21 18:34:50 2020 +0800
+
+    完成了报告中心页面
+
+[33mcommit c212cecc1085546bda31986c5ccd5beecc609c57[m
+Author: tangwu401x <1549968751@qq.com>
+Date:   Mon Sep 21 17:20:18 2020 +0800
+
+    产品分类，报告中心
+
+[33mcommit 4b43d6c86ff9d390843110e9642788c63afdf0a4[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Thu Sep 17 09:10:54 2020 +0800
+
+    报表
+
+[33mcommit 90dc8eb8f05919f3451d3861938957a0edfcf3a6[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Wed Sep 16 20:18:35 2020 +0800
+
+    报表
+
+[33mcommit 6d188bf326ff74b8b8cf6db621678e21112ec975[m[33m ([m[1;31morigin/test_wp[m[33m)[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Wed Sep 16 19:54:09 2020 +0800
+
+    报表
+
+[33mcommit 0eeb4343b6ee80a4d5ac8c7899e73909b31a8f2e[m
+Merge: 22ea37d d85c70f
+Author: tangyouxian <15814033863@163.com>
+Date:   Tue Sep 15 20:31:02 2020 +0800
+
+    Merge branch 'develop' into test
+
+[33mcommit d85c70fa0e98164220452d969c121525e23c0602[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Tue Sep 15 20:25:22 2020 +0800
+
+    优化
+
+[33mcommit 22ea37d10ba6a0a100a447c907372a9da7756f6d[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Tue Sep 15 17:39:30 2020 +0800
+
+    'updatecode'
+
+[33mcommit af8b7a68fadd8faf2893c7e46cd6cb6f5db82b4a[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Tue Sep 15 15:18:24 2020 +0800
+
+    参数配置优化
+
+[33mcommit ad87f4ad23ffd0a0e18618bf8fdfd4955af75fd5[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Tue Sep 15 14:30:59 2020 +0800
+
+    参数配置优化
+
+[33mcommit 5a1eaf5e3e45a2307f3bc6f9d66dcb353b5f625c[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Tue Sep 15 10:45:09 2020 +0800
+
+    路由
+
+[33mcommit 30e082b985cbb763d94f938bfa46ddfa743cce1f[m
+Author: tangyouxian <15814033863@163.com>
+Date:   Mon Sep 14 21:03:51 2020 +0800
+
+    用户修改
+
+[33mcommit 4903e0dd6a0725c528d582cc05f3be0fe27453aa[m
+Author: qinlinlin <15611737282@163.com>
+Date:   Mon Sep 14 16:25:06 2020 +0800
+
+    update
+
+[33mcommit f392cf32c0b81ea5735617e49692ebfc2dd8602b[m
+Author: qinlinlin <15611737282@163.com>
+Date:   Sat Sep 12 16:24:19 2020 +0800
+
+    更改环境
+
+[33mcommit b587d4e2dfd46d30920afe9e32fd39dc8a2da1b9[m
+Merge: 5d2f6a2 914f5a2
+Author: qinlinlin <15611737282@163.com>
+Date:   Sat Sep 12 16:14:57 2020 +0800
+
+    Merge branch 'test' of ssh://47.115.128.207:2222/lemontree/mall-newweb into test
+
+[33mcommit 5d2f6a242300dbfa3e84bd2b2285e6113eb86f0e[m
+Author: qinlinlin <15611737282@163.com>
+Date:   Sat Sep 12 15:48:49 2020 +0800
+
+    系统参数
+
+[33mcommit 914f5a2ee93645f5a68094e405ab1ae7a8512826[m
+Author: Administrator <admin@example.com>
+Date:   Thu Sep 10 07:48:12 2020 +0000
+
+    删除 test
+
+[33mcommit 32f2710d8e7c970da05af7b858f13e691fe59a95[m
+Author: qinlinlin <15611737282@163.com>
+Date:   Thu Sep 10 14:20:36 2020 +0800
+
+    first
+
+[33mcommit 3e5202e48aa6d9cb2b50726420c23d7e99fd5b11[m
+Author: Administrator <admin@example.com>
+Date:   Thu Sep 10 05:51:38 2020 +0000
+
+    增加新文件

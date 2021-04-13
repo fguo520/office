@@ -1,0 +1,16 @@
+//sidebar
+// $menuBg:#304156;
+// $subMenuBg:#1f2d3d;
+// $menuHover:#001528;
+
+$menuBg:#20222A;
+$subMenuBg:#16181D;
+$menuHover:rgba(3,101,100,0.5);
+$menuText:#bfcbd9;
+$menuActiveText:#009688;
+
+:export {
+  menuBg:$menuBg;
+  menuText: $menuText;
+  menuActiveText: $menuActiveText
+}
